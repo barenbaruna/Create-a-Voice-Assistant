@@ -44,7 +44,6 @@ HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript a
 - Integrate the assistant with OpenAI’s GPT-3 model to give it a high level of intelligence and the ability to understand and respond to user requests
 - Implement text-to-speech functionality to allow the assistant to communicate with users through voice output
 - Combine all of the above components to create a functioning assistant that can take voice input and provide a spoken response
-- (Optional) Understand how to deploy the assistant to a web server for use by a wider audience
 
 ## Prerequisites
 
