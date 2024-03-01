@@ -69,3 +69,12 @@ These commands first build the application (running the commands in the Dockerfi
 
 ## Conclusion
 Throughout this project, we have learned about the various components that make up an assistant, including speech-to-text technology, natural language processing with GPT-3, text-to-speech technology, and web development using Python, Flask, HTML, CSS, and JavaScript.
+
+## 📧 Support
+
+For any questions or issues regarding this project, feel free to contact me at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
+
+## 🙏 Acknowledgements
+
+Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.
+
